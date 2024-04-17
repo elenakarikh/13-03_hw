@@ -91,4 +91,5 @@ hydra -L users.txt -P pass.txt < ip-адрес > ssh
 
 ![scrin](scrin23.png)
 
+Лог suricata показывает множественное обращение по 22 порту
 ---
